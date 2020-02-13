@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751575633924",
+    "firebase_url": "https://examenciudades-b15ca.firebaseio.com",
+    "project_id": "examenciudades-b15ca",
+    "storage_bucket": "examenciudades-b15ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751575633924:android:5aab67b0840f060f49a551",
+        "android_client_info": {
+          "package_name": "com.example.examen2evapmdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751575633924-ugg0vu8j9d5afc83elctuf5b48pbv592.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozoWFd3GQuULMc-qoqBi8jT6lJv1YYgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751575633924-ugg0vu8j9d5afc83elctuf5b48pbv592.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
